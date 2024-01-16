@@ -1,0 +1,22 @@
+
+.banner_manag{
+
+    
+    width: 85%;
+    border-radius: 20px;
+    padding: 2% 7% 0 0;
+    
+    text-align:  end;
+    margin-left: 170px;
+    margin-top: 0px;
+    /* background-image: url('https://wallpapercave.com/wp/wp8290759.jpg'); */
+    background-image: url('https://ucarecdn.com/e53cfecc-c374-4d8e-825c-a4593a89c688/');
+    
+  background-position:2px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 240px;
+  
+  }
+  

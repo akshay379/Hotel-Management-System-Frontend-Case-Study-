@@ -1,0 +1,22 @@
+
+.banner_{
+
+    color: rgb(255, 255, 255);
+  
+    width: 85%;
+    border-radius: 20px;
+    padding: 2% 7% 0 0;
+    
+    text-align:  end;
+    margin-left: 170px;
+    margin-top: 40px;
+    background-image: url('https://www.itchotels.com/content/dam/itchotels/in/umbrella/images/headmast-desktop/welcomhotel-bhubaneswar.jpg');
+    
+  background-position:2px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+    height: 220px;
+  
+  }
+  

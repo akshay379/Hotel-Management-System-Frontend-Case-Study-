@@ -1,0 +1,46 @@
+.reports_{
+    margin-top: 55px;
+}
+.reports__{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+}
+
+.reports__image img{
+    width: 70%;
+    height: auto;
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0.5));
+    margin-top: -24px;
+    z-index: -1;
+    margin-bottom: -100px;
+}
+
+.reports__row{
+    display: flex;
+    z-index: 1;
+    margin-left: 10px;
+    margin-right: 8px;
+    align-self: center;
+}
+
+.reports__footer{
+    margin-top: 70px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color:  #005b85;
+}
+
+.reports__{
+    font-family: monospace;
+    margin-top: 0%;
+    
+}
+
+.reports__>h1{
+    
+    font-weight: bolder;
+    font-size: 35px;
+    background:  #d8d8d8;
+}

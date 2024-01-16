@@ -1,0 +1,21 @@
+
+.img{
+  background: url('https://cdn.pixabay.com/photo/2016/04/15/11/46/hotel-1330846_1280.jpg');
+ 
+  height: 610px;
+  background-repeat: no-repeat;
+  text-align: center;
+   
+}
+.co{
+  font-family: monospace;
+ color: rgb(0, 0, 85);
+ /* background:rgb(148, 148, 148)
+  */
+}
+.log{
+  width: 1260px;
+height: 30px;
+margin-left: 20px;
+
+}

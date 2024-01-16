@@ -1,0 +1,20 @@
+.sidebar__option{
+    display:  inline-block;
+    align-items: center;
+    height: 48px;
+    padding: 0 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+.sidebar__option:hover {
+    background-color: gray/*#fcecec*/;
+    color: white/*palevioletred*/;
+    font-weight: 500;
+}
+
+.sidebar__option > .MuiSvgIcon-root  {
+    padding: 5px;
+}

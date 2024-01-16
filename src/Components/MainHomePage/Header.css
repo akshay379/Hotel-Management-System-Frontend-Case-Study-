@@ -1,0 +1,19 @@
+.navcolor{
+    background-color: #0079b1;
+    padding-bottom: 5px;
+    height: 60px;
+}
+
+
+span{
+    color: rgb(255, 255, 255);
+}
+
+.navlist{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 0.3px;
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+

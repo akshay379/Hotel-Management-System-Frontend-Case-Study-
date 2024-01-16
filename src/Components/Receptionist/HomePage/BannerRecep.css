@@ -1,0 +1,22 @@
+
+.banner_recep{
+
+    
+    width: 85%;
+    border-radius: 20px;
+    padding: 2% 7% 0 0;
+    
+    text-align:  end;
+    margin-left: 170px;
+    margin-top: 10px;
+    /* background-image: url('https://wallpapercave.com/wp/wp8290759.jpg'); */
+    background-image: url('https://wallpapercave.com/wp/wp8290710.jpg');
+    
+  background-position:2px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+    height: 240px;
+  
+  }
+  

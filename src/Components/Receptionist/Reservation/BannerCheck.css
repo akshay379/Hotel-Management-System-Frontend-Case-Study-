@@ -1,0 +1,28 @@
+
+.banner_check{
+
+    
+    width: 90%;
+    border-radius: 20px;
+    padding: 2% 7% 0 0;
+    
+    text-align:  end;
+    margin-left: 80px;
+    margin-top: 10px;
+    /* background-image: url('https://wallpapercave.com/wp/wp8290759.jpg'); */
+    background-image: url('https://www.smartertravel.com/wp-content/uploads/2017/12/shutterstock_404442055-1400x500.jpg');
+    
+  background-position:2px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+    height: 190px;
+  
+  }
+  .banner_check h1{
+color: white;
+margin-left: -790px;
+font-size: 50px;
+
+  }
+  

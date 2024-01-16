@@ -1,0 +1,6 @@
+.dyn__card__grid{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(12rem, 22rem));
+    gap: 1rem;
+    justify-content: center;
+} 
